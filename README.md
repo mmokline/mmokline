@@ -10,7 +10,7 @@ Here, I share a few selected projects, a mix of academic work, internship experi
 
 ## Projects
  
-<img src="./photo.png" alt="Middle Distance Running" width="450"/>
+<img src="./photo.png" alt="Middle Distance Running" width="300"/>
 **Mathematical modeling + physiological data → optimized pacing strategy**  
 [View Project ➜](https://github.com/mmokline/middle-distance-running-strategy)
 

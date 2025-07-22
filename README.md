@@ -9,9 +9,8 @@ Here, I share a few selected projects, a mix of academic work, internship experi
 ---
 
 ## Projects
-
-### 🏃 Middle-Distance Running: The Keys to a Winning Strategy  
-<img src="./photo.png" alt="Middle Distance Running" width="600"/>
+ 
+<img src="./photo.png" alt="Middle Distance Running" width="450"/>
 **Mathematical modeling + physiological data → optimized pacing strategy**  
 [View Project ➜](https://github.com/mmokline/middle-distance-running-strategy)
 

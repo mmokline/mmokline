@@ -4,11 +4,11 @@ I’m always open to new ideas, collaborations, or just interesting discussions.
 📫 Reach me at **mohamediyed.mokline@ensae.fr**  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-iyed-mokline-2432b132a/)
 
-Here, I share a few selected projects — a mix of academic work, internship experiences, and personal explorations.
+Here, I share a few selected projects, a mix of academic work, internship experiences, and personal explorations.
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### 🏃 Middle-Distance Running: The Keys to a Winning Strategy  
 **Mathematical modeling + physiological data → optimized pacing strategy**  

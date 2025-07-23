@@ -1,24 +1,29 @@
+# Mohamed Iyed Mokline
+
 Hi, I’m Iyed, currently in my second year at [ENSAE Paris](https://www.ensae.fr), where I explore the intersection of **Statistics**, **Quantitative Finance**, and **Data Science**.
 
 I’m always open to new ideas, collaborations, or just interesting discussions.  
 📫 Reach me at **mohamediyed.mokline@ensae.fr**  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-iyed-mokline-2432b132a/)
 
-Here, I share a few selected projects, a mix of academic work, internship experiences, and personal explorations.
+Here, I share a selection of projects — blending academic research, internship work, and personal experimentation.
 
 ---
 
-## Projects
- 
-<img src="./photo.png" alt="Middle Distance Running" width="300"/>
+## 🧠 Projects
 
-- **Overview:** This project models and simulates optimal pacing strategies for 1500m middle-distance races.  
-  Based on real physiological data, it uses sinusoidal velocity profiles and optimization algorithms to beat actual athlete performances.
+### 🏃 Middle-Distance Running: The Keys to a Winning Strategy
 
-- **Technologies Used:** Python · Scipy · Matplotlib · Numerical Optimization · Energetic Modeling · Aftalion-Bonnans Framework
+<img src="./photo.png" alt="Middle Distance Running" width="600"/>
+
+- **Overview:**  
+  Developed a performance optimization model for 1500m races, using real physiological data, sinusoidal pacing strategies, and advanced mathematical modeling. The simulation outperforms elite athlete benchmarks by over 11 seconds.
+
+- **Technologies Used:**  
+  Python · SciPy · Matplotlib · Numerical Optimization · Energetic Modeling · Aftalion–Bonnans Framework
 
 🔗 [View Project Repository](https://github.com/mmokline/middle-distance-running-strategy)
 
 ---
 
-> ⚙️ More to come — including models, simulations, and dashboards in Python & C++.
+> ⚙️ *More to come — including models, simulations, and dashboards in Python & C++.*

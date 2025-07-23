@@ -16,7 +16,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/mmokline/middle-distance-running-strategy" target="_blank">
-    <img src="./photo_.png" alt="Middle Distance Running" width="600"/>
+    <img src="./assets/middle-distance-optimization.png" alt="Middle Distance Running" width="600"/>
   </a>
 </p>
 

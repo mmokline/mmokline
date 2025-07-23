@@ -31,4 +31,4 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 ---
 
-> ⚙️ *More to come — including models, simulations, and dashboards in Python & C++.*
+> ⚙️ *More to come; including models, simulations, and dashboards in Python & C++.*

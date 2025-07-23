@@ -6,7 +6,7 @@ I’m always open to new ideas, collaborations, or just interesting discussions.
 📫 Reach me at **mohamediyed.mokline@ensae.fr**  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-iyed-mokline-2432b132a/)
 
-Here, I share a selection of projects — blending academic research, internship work, and personal experimentation.
+Here, I share a selection of projects, blending academic research, internship work, and personal experimentation.
 
 ---
 
@@ -14,7 +14,12 @@ Here, I share a selection of projects — blending academic research, internship
 
 ### 🏃 Middle-Distance Running: The Keys to a Winning Strategy
 
-<img src="./photo_.png" alt="Middle Distance Running" width="600"/>
+<p align="center">
+  <a href="https://github.com/mmokline/middle-distance-running-strategy" target="_blank">
+    <img src="./photo_.png" alt="Middle Distance Running" width="600"/>
+  </a>
+</p>
+
 
 - **Overview:**  
   Developed a performance optimization model for 1500m races, using real physiological data, sinusoidal pacing strategies, and advanced mathematical modeling. The simulation outperforms elite athlete benchmarks by over 11 seconds.

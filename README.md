@@ -10,7 +10,7 @@ Here, I share a selection of projects — blending academic research, internship
 
 ---
 
-## 🧠 Projects
+## 🧠 Projects 
 
 ### 🏃 Middle-Distance Running: The Keys to a Winning Strategy
 

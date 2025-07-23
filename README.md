@@ -11,14 +11,14 @@ Here, I share a few selected projects, a mix of academic work, internship experi
 ## Projects
  
 <img src="./photo.png" alt="Middle Distance Running" width="300"/>
-**Overview:**  
-This project models and simulates optimal pacing strategies for a 1500m middle-distance runner.  
-Combining real physiological measurements and mathematical modeling, I used sinusoidal velocity profiles and optimization algorithms to outperform actual athlete benchmarks.
 
-**Technologies Used:**  
-Python · Scipy · Matplotlib · Numerical Optimization · Energetic Modeling · Aftalion-Bonnans Framework
+- **Overview:** This project models and simulates optimal pacing strategies for 1500m middle-distance races.  
+  Based on real physiological data, it uses sinusoidal velocity profiles and optimization algorithms to beat actual athlete performances.
 
-🔗 [View Project Repository](https://github.com/moklineiyed/TIPE-1500m)
+- **Technologies Used:** Python · Scipy · Matplotlib · Numerical Optimization · Energetic Modeling · Aftalion-Bonnans Framework
+
+🔗 [View Project Repository](https://github.com/mmokline/middle-distance-running-strategy)
+
 ---
 
 > ⚙️ More to come — including models, simulations, and dashboards in Python & C++.

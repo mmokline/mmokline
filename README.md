@@ -14,7 +14,7 @@ Here, I share a selection of projects — blending academic research, internship
 
 ### 🏃 Middle-Distance Running: The Keys to a Winning Strategy
 
-<img src="./photo1.png" alt="Middle Distance Running" width="600"/>
+<img src="./photo.png" alt="Middle Distance Running" width="600"/>
 
 - **Overview:**  
   Developed a performance optimization model for 1500m races, using real physiological data, sinusoidal pacing strategies, and advanced mathematical modeling. The simulation outperforms elite athlete benchmarks by over 11 seconds.

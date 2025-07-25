@@ -33,7 +33,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/mmokline/grid-matching-optimizer" target="_blank">
-    <img src="./assets/grid-matching-optimizer.png" alt="Grid Matching Optimizer" width="500"/>
+    <img src="./assets/grid-matching-optimizer.png" alt="Grid Matching Optimizer" width="550"/>
   </a>
 </p>
 

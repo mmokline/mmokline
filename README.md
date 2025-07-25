@@ -29,6 +29,22 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 🔗 [View Project Repository](https://github.com/mmokline/middle-distance-running-strategy)
 
+### 🧩 Grid-Matching Optimizer: Smart Pairing in Complex Grids
+
+<p align="center">
+  <a href="https://github.com/mmokline/grid-matching-optimizer" target="_blank">
+    <img src="./assets/grid-matching-optimizer.png" alt="Grid Matching Optimizer" width="600"/>
+  </a>
+</p>
+
+- **Overview:**  
+  Built an optimal grid-based pairing system with mathematical constraints on values and colors. Includes three solving methods (Greedy, Hungarian, Minimax AI) and a complete interactive game interface in Pygame with Solo, AI, and 2-Player modes.
+
+- **Technologies Used:**  
+  Python · Pygame · NetworkX · Matplotlib · Graph Theory · Combinatorial Optimization · Algorithmic Game Design
+
+🔗 [View Project Repository](https://github.com/mmokline/grid-matching-optimizer)
+
 ---
 
 > ⚙️ *More to come; including models, simulations, and dashboards in Python & C++.*

@@ -16,7 +16,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/mmokline/market-stress-tracker" target="_blank">
-    <img src="./assets/market-stress-tracker.png" alt="Market Stress Tracker" width="300"/>
+    <img src="./assets/market-stress-tracker.png" alt="Market Stress Tracker" width="330"/>
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/mmokline/grid-matching-optimizer" target="_blank">
-    <img src="./assets/grid-matching-optimizer.png" alt="Grid Matching Optimizer" width="600"/>
+    <img src="./assets/grid-matching-optimizer.png" alt="Grid Matching Optimizer" width="500"/>
   </a>
 </p>
 

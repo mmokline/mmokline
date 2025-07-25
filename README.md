@@ -12,6 +12,23 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 ## 🧠 Projects 
 
+### 📉 Market Stress Tracker: Visualizing Financial Volatility with Style
+
+<p align="center">
+  <a href="https://github.com/mmokline/market-stress-tracker" target="_blank">
+    <img src="./assets/market-stress-tracker.png" alt="Market Stress Tracker" width="600"/>
+  </a>
+</p>
+
+- **Overview:**  
+  Developed a professional-grade financial stress dashboard during my internship at BIAT’s front-office trading floor. The system aggregates real-time volatility signals from 8 macro-financial assets, weighted using insights from FX, Commodities, and Options desks. Outputs include a composite market stress index with dynamic radar and gauge visualizations.
+
+- **Technologies Used:**  
+  Python · Streamlit · Plotly · yFinance · Pandas · NumPy · Matplotlib · Financial Engineering · Volatility Analysis
+
+🔗 [View Project Repository](https://github.com/mmokline/market-stress-tracker)
+
+
 ### 🧩 Grid-Matching Optimizer: Smart Pairing in Complex Grids
 
 <p align="center">

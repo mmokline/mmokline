@@ -16,7 +16,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/mmokline/quant-fx-lab" target="_blank">
-    <img src="./assets/quant-fx-lab.png" alt="Quant FX Lab" width="500"/>
+    <img src="./assets/quant-fx-lab.png" alt="Quant FX Lab" width="550"/>
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/mmokline/middle-distance-running-strategy" target="_blank">
-    <img src="./assets/middle-distance-optimization.png" alt="Middle Distance Running" width="400"/>
+    <img src="./assets/middle-distance-optimization.png" alt="Middle Distance Running" width="4500"/>
   </a>
 </p>
 

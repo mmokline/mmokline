@@ -12,6 +12,25 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 ## 🧠 Projects 
 
+### 💱 Quant-FX Lab: Research-Driven FX Option Pricing & Hedging Framework
+
+<p align="center">
+  <a href="https://github.com/mmokline/quant-fx-lab" target="_blank">
+    <img src="./assets/quant-fx-lab.png" alt="Quant FX Lab" width="400"/>
+  </a>
+</p>
+
+- **Overview:**  
+  Developing a research-driven framework for FX option pricing, volatility calibration, and hedging simulation.  
+  The project integrates classical models (Black-Scholes, Binomial Trees) with advanced methods (GARCH, Heston)  
+  and a Streamlit dashboard for interactive risk analysis. **(Currently under active development)**
+
+- **Technologies:**  
+  Python · NumPy · Pandas · SciPy · ARCH (GARCH) · QuantLib · Streamlit · Plotly
+
+[View Project Repository](https://github.com/mmokline/quant-fx-lab)
+
+
 ### 📉 Market Stress Tracker: Visualizing Financial Volatility with Style
 
 <p align="center">

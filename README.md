@@ -16,7 +16,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/mmokline/quant-fx-lab" target="_blank">
-    <img src="./assets/quant-fx-lab.png" alt="Quant FX Lab" width="550"/>
+    <img src="./assets/quant-fx-lab.png" alt="Quant FX Lab" width="600"/>
   </a>
 </p>
 

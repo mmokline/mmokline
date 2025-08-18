@@ -35,7 +35,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/iyedmokline/volatility-prediction" target="_blank">
-    <img src="./assets/volatility_prediction.png" alt="Volatility Prediction" width="550"/>
+    <img src="./assets/volatility_prediction.png" alt="Volatility Prediction" width="340"/>
   </a>
 </p>
 

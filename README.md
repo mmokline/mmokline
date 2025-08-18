@@ -31,6 +31,30 @@ Here, I share a selection of projects, blending academic research, internship wo
 🔗 [View Project Repository](https://github.com/mmokline/quant-fx-lab)
 
 
+### 📉 Volatility Prediction: FX Market Risk Analysis Framework
+
+<p align="center">
+  <a href="https://github.com/iyedmokline/volatility-prediction" target="_blank">
+    <img src="./assets/volatility-prediction.png" alt="Volatility Prediction" width="550"/>
+  </a>
+</p>
+
+- **Overview:**  
+  Research-driven framework for **financial market volatility prediction**, combining both **parametric models** (GARCH(1,1)) and **machine learning models** (Linear Regression, Random Forest).  
+  The project includes:
+  - Historical & rolling volatility computation
+  - Volatility term structure by maturity (1–360 days)
+  - Predictive modeling with GARCH and ML
+  - Performance benchmarking (RMSE, MAE)
+  - Visualization of results and model comparison plots  
+  **(Currently under active development)**
+
+- **Technologies:**  
+  Python • NumPy • Pandas • SciPy • ARCH (GARCH) • scikit-learn • Matplotlib • Excel I/O
+
+🔗 [View Project Repository](https://github.com/iyedmokline/volatility-prediction)
+
+
 ### 📉 Market Stress Tracker: Visualizing Financial Volatility with Style
 
 <p align="center">

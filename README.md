@@ -47,7 +47,6 @@ Here, I share a selection of projects, blending academic research, internship wo
   - Predictive modeling with GARCH and ML
   - Performance benchmarking (RMSE, MAE)
   - Visualization of results and model comparison plots  
-  **(Currently under active development)**
 
 - **Technologies:**  
   Python • NumPy • Pandas • SciPy • ARCH (GARCH) • scikit-learn • Matplotlib • Excel I/O
